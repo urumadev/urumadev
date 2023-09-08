@@ -12,10 +12,10 @@ I am a beginner full-stack developer
 
   <div id="badges">
     <a href="https://vk.com/urumadev" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="VK Badge" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="VK" />
     </a>
     <a href="https://t.me/urumadev" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="Telegram Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="Telegram"/>
     </a>
     <a href="https://discord.com/users/232476435451740160" target="_blank">
       <img src="https://w7.pngwing.com/pngs/705/535/png-transparent-computer-icons-discord-logo-discord-icon-rectangle-logo-smiley-thumbnail.png" width="40" height="40" alt="Zen Badge"/>
