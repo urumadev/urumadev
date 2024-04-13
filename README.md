@@ -4,7 +4,7 @@
 
 ### :man_technologist: For me:
 
-I am a beginner full-stack developer
+I am a beginner backend developer
 
 ---
 
